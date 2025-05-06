@@ -1,0 +1,58 @@
+body {
+    font-family: "Poetsen One", sans-serif;
+    background-color: #eaeff1; /* Fondo más suave */
+    color: #333333;
+    margin: 0;
+    padding: 0;
+  }
+  
+    header {
+    background-color: #1f2d3d;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  
+  h1 {
+    color: #f1c40f; /* Contraste fuerte */
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #2c3e50;
+    margin: 10px 0;
+  }
+  
+  /* Secciones de producto */
+  main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  section {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+    section img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+ 
+
+  /* Footer */
+  footer {
+    background-color: #1f2d3d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
