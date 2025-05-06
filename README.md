@@ -10,3 +10,24 @@ Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
 - HTML
 - CSS
 - Markdown
+
+
+## Bitácora Técnica
+
+Documentaré las etiquetas HTML y propiedades CSS que más han servido o gustado:
+
+### Etiquetas HTML semánticas:
+- `<header>`
+- `<section>`
+- `<article>`
+- `<footer>`
+- `<nav>`
+- `<aside>`
+
+### Propiedades de CSS:
+- `color: #333`
+- `background-color: #f0f0f0`
+- `font-size: 16px`
+- `padding: 20px`
+- `margin: 10px`
+- `text-align: center`
